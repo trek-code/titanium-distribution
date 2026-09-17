@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.37",
-  "notes": "Vengeance recovery now keeps the session active while the special pool is cooling down, retries the pool automatically until combo energy is restored, chooses the nearest ditch lane when a wilderness target is available while varying targetless crossings, and waits without attack spam when the assigned target is already fighting another player.",
-  "pub_date": "2026-09-17T18:51:52.924Z",
+  "version": "0.2.37-dev.38",
+  "notes": "Fix Vengeance false-failure receipts and stale duplicate casts. Add persistent conditional combo finishers: end with a learned weapon whack or one learned special, gated by preceding hit damage and enemy health. Optional finishers use live special-cost, target, equipment, inventory, and return-weapon checks, with saved-recipe persistence and detailed Brain trace events.",
+  "pub_date": "2026-09-17T19:21:37.612Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXdtQWx2WDlFTDBVRzFDdGQ0RnVXSjBFaVdBNkF6UGl5N0JhWGNDcmw5R3hsVHpRTTVjbG0zY3h0cnVIQnkxaEYwVjcrMjlQMVZCME5FUjZiTDdMaHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcwODQyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zN194NjQtc2V0dXAuZXhlCkcwalB5ZmJYcWhpYkdUNWxkeGxEY3RlWUQxZUluMU1rMlRhbUJZQ0x1bzNzN0trNGpYUUExRHhIZFRHQTMvZUk4WXJPV3NjTFJ4M3pUcWZTOHBNVkN3PT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.37/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXlYUVhmTnJaRUIvYVo1NmV0MFk3cEpCa0IzSlVVWmYzOE9CUm5FQW9HalVrNDRGcm1QSmpIbEV4cDhqUGhzVDAyanZJOEFLRjZNZXhYNzB0VTZpcGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcyMzgzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zOF94NjQtc2V0dXAuZXhlClM1SkJsam1vUUhUTStLblVja1BKaW50eVVBVnRRVkp6VGw1dks5KzUxdnAvNU41Z3hQQnJsS3NTS1VoUDlUYTFIV21vNC9BT2V2WmNocmczK1JLY0R3PT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.38/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
