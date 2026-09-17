@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.34",
-  "notes": "Roat kill and loot reliability: recognizes both real killstreak and Bounty Hunter target chat confirmations, cancels a pending escape when late kill evidence arrives, preserves the verified victim-tile loot state, and waits for delayed pile spawns before teleporting or regearing.",
-  "pub_date": "2026-09-17T11:13:36.795Z",
+  "version": "0.2.37-dev.35",
+  "notes": "PvP combo control and retaliation: adds persistent per-stage minimum opener damage and maximum enemy-health gates before committing follow-up Gmaul specs, records explicit gate traces and preserves special when a gate fails, and adds a per-Vengeance-setup toggle to retaliate against only verified non-target attackers during combat.",
+  "pub_date": "2026-09-17T11:26:31.007Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTZlREZNL25pSWduVVhvRVltUlFrNDdlUmNndHRFMGVDQ2NIQ2Foc05lM0tyd0Q3bTUrck50bFhjb2ZDNE9JbUhSK3ZIWDB0eE1pVzFxQmp5WDlkQ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQzNTg5CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zNF94NjQtc2V0dXAuZXhlCldoWnJRM0ZGYjdzeFhEVnU2MzYvQWh0ZWM1QTRSSnVsakVZSzluSmFZSUVraTNoalY1UE9lNVVWcExIWlk1WDFCQkR5bW92L01qQ3kydndpNlEzOERnPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.34/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTdtSDRPUEQ3bTNIRWUweXdWdFloK1BuMVNoZ0ZwM2NMRzFCTjJ0dDNRby9xSVd5NXhuQS9RU0lwSG0rdk16TE5ISWZaellRVDZSQUxkYUM5eGZWK2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQ0MzYzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zNV94NjQtc2V0dXAuZXhlCkhta3k2OWN1SkVDbldjMllaWlN1NW1JSStmd2JTOGtNRFdROVk4SG1wWmYxUmQrclFKTzEwSGVRQ1BxMmtYdlR6TkphOTRISnluZ0xTczdnUERKMENBPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.35/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
