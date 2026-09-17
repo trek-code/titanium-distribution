@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.30",
-  "notes": "PvP Brain: wilderness-only Protect Item, Smite recovery, skull-first target waiting, instant matched teleports, last triple-eat reserve, stronger low-health pressure, and live four-region Brain pop-out with PID.",
-  "pub_date": "2026-09-17T09:37:01.213Z",
+  "version": "0.2.37-dev.31",
+  "notes": "Brain Vengeance cooldown ownership, strategic high-hit counters, pre-ditch Vengeance, observed opponent Vengeance timing, guaranteed post-action reattack, death respawn recovery, and corrected same-tick Gmaul receipt verification.",
+  "pub_date": "2026-09-17T10:01:30.535Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTh0OVZKQTltRDlXWlRpSXl1YkpPUnVpZlRaMVBMdVVsQ0dxWjhPTjJxbzJWMlZFcmY2dWM4SUZ4LzhubFZvd0FxcStNVXdQUlEzN1lVOUduNmJUc2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM3Nzg3CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zMF94NjQtc2V0dXAuZXhlClJBZ3prb0pUajA2THZVeWRxQklqY0loa1BVVzFKeHpUK2xxaTNxMVNWRkFJRldGd3cwVWZUdHNPM250bG5UelhUczRSLytGMGRXNnRmQlNDMUh0bEJBPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.30/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTl6aXc1cjZkSlJrYWVwSEhXLzY2SWhLVGM1eTVNL0VmUi9FVlphdXJ3OW9qbUJBaDBTeDRDa0RSMzVtRlc3ZFRkVDJEMmsyVXN6RjdNNmlYMC96eFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM5MjYyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zMV94NjQtc2V0dXAuZXhlCm5Ka0tKZWoyWkVnR3plcTZndXI4T2FaeXl6NHFrNWthWVJsU3FhdHZRYWcwaUdwVE5tb3k5WnJMUFJTWWtTTmFyalV0TXhuUGZUdHdJUEVLRlJjdkJRPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.31/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
