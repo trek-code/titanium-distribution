@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.29",
-  "notes": "Fixes instant AGS-to-Gmaul execution by activating every armed maul special on the authorized target; makes Roat death chat immediately preempt combat and dispatch Ctrl+R recovery; cleans Brain fault reporting so deferred, partial, confirmed, and gated actions are not mislabeled as faults.",
-  "pub_date": "2026-09-17T08:59:56.213Z",
+  "version": "0.2.37-dev.30",
+  "notes": "PvP Brain: wilderness-only Protect Item, Smite recovery, skull-first target waiting, instant matched teleports, last triple-eat reserve, stronger low-health pressure, and live four-region Brain pop-out with PID.",
+  "pub_date": "2026-09-17T09:37:01.213Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNS84eTB4SVVjVkswdkdqV1BObVZPcVlVanVFKzJZRjFmWkhZZ1NkRGVsVW93UGpkV2tZY0NYaTNiT3ZvbFBVUVlKdG40TlV6a091b0hDbXIzaDMydlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM1NTY0CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4yOV94NjQtc2V0dXAuZXhlCmMxU3VxTjNVZllubDlFVjY5U2I5WFpGWHdzeU9xRkNta2g3WkFwd1NOVEpGejNLN0kweVJTbDJrOG4xWlkyREExa3RuN2tFRlJ4UG81MnNzd3FCL0RRPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.29/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTh0OVZKQTltRDlXWlRpSXl1YkpPUnVpZlRaMVBMdVVsQ0dxWjhPTjJxbzJWMlZFcmY2dWM4SUZ4LzhubFZvd0FxcStNVXdQUlEzN1lVOUduNmJUc2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM3Nzg3CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zMF94NjQtc2V0dXAuZXhlClJBZ3prb0pUajA2THZVeWRxQklqY0loa1BVVzFKeHpUK2xxaTNxMVNWRkFJRldGd3cwVWZUdHNPM250bG5UelhUczRSLytGMGRXNnRmQlNDMUh0bEJBPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.30/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
