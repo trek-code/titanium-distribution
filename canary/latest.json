@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.31",
-  "notes": "Brain Vengeance cooldown ownership, strategic high-hit counters, pre-ditch Vengeance, observed opponent Vengeance timing, guaranteed post-action reattack, death respawn recovery, and corrected same-tick Gmaul receipt verification.",
-  "pub_date": "2026-09-17T10:01:30.535Z",
+  "version": "0.2.37-dev.32",
+  "notes": "Fix target-acquisition retaliation: verified incoming aggression now authorizes an immediate counterattack even while the skull icon is refreshing, passive targets still require a skull, and waiting-area movement can no longer interrupt the opening response.",
+  "pub_date": "2026-09-17T10:18:59.254Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTl6aXc1cjZkSlJrYWVwSEhXLzY2SWhLVGM1eTVNL0VmUi9FVlphdXJ3OW9qbUJBaDBTeDRDa0RSMzVtRlc3ZFRkVDJEMmsyVXN6RjdNNmlYMC96eFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM5MjYyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zMV94NjQtc2V0dXAuZXhlCm5Ka0tKZWoyWkVnR3plcTZndXI4T2FaeXl6NHFrNWthWVJsU3FhdHZRYWcwaUdwVE5tb3k5WnJMUFJTWWtTTmFyalV0TXhuUGZUdHdJUEVLRlJjdkJRPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.31/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTBHK3RjejQrZHdzSlU4WWVZejhNTjJ2cWlWazRnL2pIZzlOVVVrdjd4dDVlMTZDdlJKNW5YcTFUeitDK3Z1OHA4THRnSmRnVVNlYzBoaUIrdm9uc3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQwMzExCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zMl94NjQtc2V0dXAuZXhlCnU3d21pQkk2NmN3cHNXMGg5ZHc4a05WV3FhS1F2OXBhWm5rdTZvVXRMK1FIZ01STERWZEkxKy9semovSG9SM25YbFEwOGhzMGlxWTNySmNxdmI0WEJnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.32/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
