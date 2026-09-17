@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.27",
-  "notes": "Dharok risk intelligence: Aggressive now targets the true 15-45 HP high-damage band, requires 92% local PID confidence at critical health, records estimated damage scaling and gates in Brain traces, and immediately triple-eats after a critical axe swing.",
-  "pub_date": "2026-09-17T08:29:34.375Z",
+  "version": "0.2.37-dev.28",
+  "notes": "Dharok low-HP risk intelligence: Aggressive uses a 15-45 HP band, requires 92% certified local PID at critical health, exposes estimated damage bonus and risk gates in Brain traces, and performs immediate post-swing triple recovery without waiting on hitsplat telemetry.",
+  "pub_date": "2026-09-17T08:39:05.334Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTAvYktqKysrVnJCWWhrSkIyb0tsR0ErK0NXZFkyN1U4WCtnSEt6MDBKWk55VUJOcjMwOFE3VkxObzFRZ1pqV1hEY2VmVnZHZC9OeDEwdGRrbkdKVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjMzNzM2CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4yN194NjQtc2V0dXAuZXhlCjRpS0kzK0Z0d3dOcGloUUhvWkpENG9QK1lRY2xwdHJnM05IOTB6SHB3OHNXTWdkQUNPUVpYb0R0ekJFM2lTczZhUWdhTkpjNzY2a1dHMlk0SVVMZUR3PT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.27/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTMyOUJzY1RxZzJtbG9GWTlvV085bVpab2g2YjllMzdwUVJJRUt0YmkxSkZETU5QNVhOTGdTSm8yTWYvUjJMZzZ1TmR5THpnZzNRVkxIeVdZUmt3SkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjM0MzEyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4yOF94NjQtc2V0dXAuZXhlClpnSlU4SDBpMGhOcTRBa2ZFOVByRVFXOUl6ak9iTHdWd1dUTnpHT1JyZ2swTGpuMXh4Ym94ejBGWVF3MDFTSVhqLzZvUXlza0NSK21KeExFVHNoQ0RBPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.28/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
