@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.32",
-  "notes": "Fix target-acquisition retaliation: verified incoming aggression now authorizes an immediate counterattack even while the skull icon is refreshing, passive targets still require a skull, and waiting-area movement can no longer interrupt the opening response.",
-  "pub_date": "2026-09-17T10:18:59.254Z",
+  "version": "0.2.37-dev.33",
+  "notes": "Brain combat upgrade: stronger low-HP Dharok risk opportunities, researched weapon mechanics library with owner-local overrides, new VLS/Abyssal dagger/Ancient godsword/Dragon mace/Dragon warhammer combo recipes, catalog-driven instant Gmaul handoffs, and a four-region neural live Brain monitor.",
+  "pub_date": "2026-09-17T10:59:19.509Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTBHK3RjejQrZHdzSlU4WWVZejhNTjJ2cWlWazRnL2pIZzlOVVVrdjd4dDVlMTZDdlJKNW5YcTFUeitDK3Z1OHA4THRnSmRnVVNlYzBoaUIrdm9uc3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQwMzExCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zMl94NjQtc2V0dXAuZXhlCnU3d21pQkk2NmN3cHNXMGg5ZHc4a05WV3FhS1F2OXBhWm5rdTZvVXRMK1FIZ01STERWZEkxKy9semovSG9SM25YbFEwOGhzMGlxWTNySmNxdmI0WEJnPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.32/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNSsrc2pQbzNEcHovWWFYRVE5bUswTXJ5LzlFR0MxR21yN3k5WVF2cGpxWC9STFBYQmtqaldMQWFxOVk5WXA5MWF3TE5vem0vYjUwQnlWdVRVVHBWNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQyNzMxCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zM194NjQtc2V0dXAuZXhlCnhWOWNPWVBnMmwxWDNqc0ZWNFlHSU1VVHdnK0ZiQUY0S1JIY0dDSUU4QXA2VEd2cG05WlpEeGwwSGc3dWt2MnRhQ1NSeGw1WmswRG1Ob1FlMStyeUJ3PT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.33/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
