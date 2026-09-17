@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.41",
-  "notes": "Fix Roat right-click developer IDs by injecting rows during MenuEntryAdded, with duplicate suppression, MenuOpened fallback, and a one-time runtime diagnostic receipt.",
-  "pub_date": "2026-09-17T21:52:28.587Z",
+  "version": "0.2.37-dev.42",
+  "notes": "Reduced manual click latency by removing duplicate global mouse interception, skipping inactive PvP combat-truth work while preserving setup telemetry, caching item metadata, cleaning detached Roat runtimes correctly, and adding physical-click dispatch timing diagnostics.",
+  "pub_date": "2026-09-17T23:39:46.485Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNThQa1pVYnNQOXU1U2Y2N2JXdnA2OStqOEZnckZ0SVh5TUdNZm1OR0lXaWh5czhuWFZocDkwd3AwYXMzdmxyOExQV2czRUY4ZDdrV0pWWmM4R2UyNUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjgxMDkxCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40MV94NjQtc2V0dXAuZXhlCkNsV2hpTVZDVkIyU0lwNkVLUzdaS0ZYZUJ1YzhkR1dqUGtWTC9FYzJlaVpMWmdkZWV5SEtsdDcvQnhCL0lDZVFHSDMwV2VyY0M4b3MyNURvdlo5ckRBPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.41/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTkxdlZIZzFWWWwwUXRzeDlhcjE3RWp5T1VrZkFTOU10Q01ObTg1a2twZkNla21XRzVQL3VCUGVBMERsbkVXSmhsZ0lQL1Bhd0xjTE9SVzdwd0Vhc3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg4MzM3CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40Ml94NjQtc2V0dXAuZXhlCnlINEUwM29nZEd5aUs1RlB3Q05NUFNxbEJPU3VQS3hvcjNSaFI2YkdmUTBBSWdkcGVwRXRTUXAvaHFYNGRidnYyNGdJdXhpL3NUaVJkemVKcVYvRENRPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.42/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
