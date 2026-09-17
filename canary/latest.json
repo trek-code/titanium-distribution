@@ -1,7 +1,7 @@
 {
   "version": "0.2.37-dev.37",
   "notes": "Vengeance recovery now keeps the session active while the special pool is cooling down, retries the pool automatically until combo energy is restored, chooses the nearest ditch lane when a wilderness target is available while varying targetless crossings, and waits without attack spam when the assigned target is already fighting another player.",
-  "pub_date": "2026-09-17T18:51:19.459Z",
+  "pub_date": "2026-09-17T18:51:52.924Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXdtQWx2WDlFTDBVRzFDdGQ0RnVXSjBFaVdBNkF6UGl5N0JhWGNDcmw5R3hsVHpRTTVjbG0zY3h0cnVIQnkxaEYwVjcrMjlQMVZCME5FUjZiTDdMaHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcwODQyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zN194NjQtc2V0dXAuZXhlCkcwalB5ZmJYcWhpYkdUNWxkeGxEY3RlWUQxZUluMU1rMlRhbUJZQ0x1bzNzN0trNGpYUUExRHhIZFRHQTMvZUk4WXJPV3NjTFJ4M3pUcWZTOHBNVkN3PT0K",
