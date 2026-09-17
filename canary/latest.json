@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.35",
-  "notes": "PvP combo control and retaliation: adds persistent per-stage minimum opener damage and maximum enemy-health gates before committing follow-up Gmaul specs, records explicit gate traces and preserves special when a gate fails, and adds a per-Vengeance-setup toggle to retaliate against only verified non-target attackers during combat.",
-  "pub_date": "2026-09-17T11:26:31.007Z",
+  "version": "0.2.37-dev.36",
+  "notes": "Persistent Brain combo continuation gates: saved recipes now retain minimum opener hit and maximum post-hit enemy HP, Brain frames and traces use the same active values, generated AGS-to-Gmaul plans carry both gates into the atomic motor, and Brain Lab displays the live gate policy.",
+  "pub_date": "2026-09-17T18:33:43.764Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTdtSDRPUEQ3bTNIRWUweXdWdFloK1BuMVNoZ0ZwM2NMRzFCTjJ0dDNRby9xSVd5NXhuQS9RU0lwSG0rdk16TE5ISWZaellRVDZSQUxkYUM5eGZWK2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQ0MzYzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zNV94NjQtc2V0dXAuZXhlCkhta3k2OWN1SkVDbldjMllaWlN1NW1JSStmd2JTOGtNRFdROVk4SG1wWmYxUmQrclFKTzEwSGVRQ1BxMmtYdlR6TkphOTRISnluZ0xTczdnUERKMENBPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.35/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTUyanlMbDRtV0ZwZjZMaDQvK0xYMlVybnkyZzFQTGtIM043di9hK0J1UzhJVE1tUWZFOGNPSjkyS1ArbndFNmtGVmkvZDc0RlZhS3FTd1VBZFBXMUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY5NTc4CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zNl94NjQtc2V0dXAuZXhlCmh6aFBiTTdWUWNwMTl1Yk41d1FrZ05nQ3JRMkJoWDVnWEVleUJBUmx5Q092QmRZdnl6ZjZqWHI5YkdQWVpvNWU4L1VnZStVelltaS9uMEpWcXIzS0RnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.36/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
