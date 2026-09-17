@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.36",
-  "notes": "Persistent Brain combo continuation gates: saved recipes now retain minimum opener hit and maximum post-hit enemy HP, Brain frames and traces use the same active values, generated AGS-to-Gmaul plans carry both gates into the atomic motor, and Brain Lab displays the live gate policy.",
-  "pub_date": "2026-09-17T18:33:43.764Z",
+  "version": "0.2.37-dev.37",
+  "notes": "Vengeance recovery now keeps the session active while the special pool is cooling down, retries the pool automatically until combo energy is restored, chooses the nearest ditch lane when a wilderness target is available while varying targetless crossings, and waits without attack spam when the assigned target is already fighting another player.",
+  "pub_date": "2026-09-17T18:51:19.459Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTUyanlMbDRtV0ZwZjZMaDQvK0xYMlVybnkyZzFQTGtIM043di9hK0J1UzhJVE1tUWZFOGNPSjkyS1ArbndFNmtGVmkvZDc0RlZhS3FTd1VBZFBXMUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjY5NTc4CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zNl94NjQtc2V0dXAuZXhlCmh6aFBiTTdWUWNwMTl1Yk41d1FrZ05nQ3JRMkJoWDVnWEVleUJBUmx5Q092QmRZdnl6ZjZqWHI5YkdQWVpvNWU4L1VnZStVelltaS9uMEpWcXIzS0RnPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.36/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXdtQWx2WDlFTDBVRzFDdGQ0RnVXSjBFaVdBNkF6UGl5N0JhWGNDcmw5R3hsVHpRTTVjbG0zY3h0cnVIQnkxaEYwVjcrMjlQMVZCME5FUjZiTDdMaHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjcwODQyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zN194NjQtc2V0dXAuZXhlCkcwalB5ZmJYcWhpYkdUNWxkeGxEY3RlWUQxZUluMU1rMlRhbUJZQ0x1bzNzN0trNGpYUUExRHhIZFRHQTMvZUk4WXJPV3NjTFJ4M3pUcWZTOHBNVkN3PT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.37/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
