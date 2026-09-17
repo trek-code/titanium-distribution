@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.39",
-  "notes": "Adds a persistent Developer ID Inspector for item, NPC/player, game object, widget, tile, and menu-action identifiers. Combo stages and finishers can now choose any equipped or inventory item directly by live item ID without swapping weapons first. All developer overlays remain opt-in and disabled by default.",
-  "pub_date": "2026-09-17T20:20:30.736Z",
+  "version": "0.2.37-dev.40",
+  "notes": "Developer ID tools now use right-click menu rows instead of a boxed hover HUD, add scene-anchored animation, projectile, and graphics IDs, and include a dedicated wrench toolbar page with persistent per-ID toggles.",
+  "pub_date": "2026-09-17T21:17:42.347Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTlFcWh0dEdmcHlub3ZMQmJIK3dpRU05R1RNSXRaeTlIS0FqQTVaS0NXZlJpakJwcUlxMWJpejdDZENjUHZTb1ZnTHZ5OVFBOHFCL1ZlR2xCRWppMUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njc0MzAzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zOV94NjQtc2V0dXAuZXhlCmVtUk5Pc1cvVkkwaGpmSnQ5eU05RE1Yb2JwdFhPajhUR2Rsdk9EcHpvM2N4cnE1bm9jcG5tNDgveno2dFZKN0hSUXkyeStJN1RtUjNTSG1WWGd2UkN3PT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.39/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTZmOHVCd3FZSnlhNXRST2twRnVLTkc0bWFzS3VlaDJHQmt4eHIvYWZidG9DcmQvNW9yU0RDYVhvdkhVelVZbWZuU0o2ckxIR1JBL1dKbWlkVUlHUVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njc5ODMzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40MF94NjQtc2V0dXAuZXhlCnJaQzhvNWVLRWpTWUZhUFFIVmhQODgvYlJ1YXovS2dWaG9wZ0U5aEROcHdvbTRLSXFMbTlvYkNQMnFMd082bVc3eTE1d0MvNlJ1bTRwYXozSmI5M0FBPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.40/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
