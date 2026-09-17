@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.33",
-  "notes": "Brain combat upgrade: stronger low-HP Dharok risk opportunities, researched weapon mechanics library with owner-local overrides, new VLS/Abyssal dagger/Ancient godsword/Dragon mace/Dragon warhammer combo recipes, catalog-driven instant Gmaul handoffs, and a four-region neural live Brain monitor.",
-  "pub_date": "2026-09-17T10:59:19.509Z",
+  "version": "0.2.37-dev.34",
+  "notes": "Roat kill and loot reliability: recognizes both real killstreak and Bounty Hunter target chat confirmations, cancels a pending escape when late kill evidence arrives, preserves the verified victim-tile loot state, and waits for delayed pile spawns before teleporting or regearing.",
+  "pub_date": "2026-09-17T11:13:36.795Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNSsrc2pQbzNEcHovWWFYRVE5bUswTXJ5LzlFR0MxR21yN3k5WVF2cGpxWC9STFBYQmtqaldMQWFxOVk5WXA5MWF3TE5vem0vYjUwQnlWdVRVVHBWNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQyNzMxCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zM194NjQtc2V0dXAuZXhlCnhWOWNPWVBnMmwxWDNqc0ZWNFlHSU1VVHdnK0ZiQUY0S1JIY0dDSUU4QXA2VEd2cG05WlpEeGwwSGc3dWt2MnRhQ1NSeGw1WmswRG1Ob1FlMStyeUJ3PT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.33/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTZlREZNL25pSWduVVhvRVltUlFrNDdlUmNndHRFMGVDQ2NIQ2Foc05lM0tyd0Q3bTUrck50bFhjb2ZDNE9JbUhSK3ZIWDB0eE1pVzFxQmp5WDlkQ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQzNTg5CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4zNF94NjQtc2V0dXAuZXhlCldoWnJRM0ZGYjdzeFhEVnU2MzYvQWh0ZWM1QTRSSnVsakVZSzluSmFZSUVraTNoalY1UE9lNVVWcExIWlk1WDFCQkR5bW92L01qQ3kydndpNlEzOERnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.34/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
