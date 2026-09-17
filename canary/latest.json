@@ -1,0 +1,11 @@
+{
+  "version": "0.2.37-dev.24",
+  "notes": "Adds direct Java 11 and Java 17 downloads plus automatic Java detection.",
+  "pub_date": "2026-09-17T06:56:19.912Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTNMZDZVaVVpSE1YbXpNNjlDU204TzdNcEIrWUtCa3I2Umx6T011ci9MTGRmNHAwMndzQU1TeERNdEJMc2xoTDZKaWJtai9JbzZBcU1QUkg1QisxYWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjI3Nzg4CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4yNF94NjQtc2V0dXAuZXhlCkxIbmJDS0N1VnYxVThyTDJ0bk0rNUxrMTNTQzQvWGJQamV3dEhMNzBBVmR6clQxS1FTZmZmMEc1RHVGcVpMMHJLRFYxL3RWNUZSbnRkbDIxcHh5dENRPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.24/Project-Titanium-Dev-Setup.exe"
+    }
+  }
+}
