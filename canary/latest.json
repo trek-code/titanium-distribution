@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.26",
-  "notes": "Removes all Dharok-to-Granite-maul chains, reserves Dharok for low-health local-PID axe risks, prefers AGS normal-hit maul chains, accepts Roat's combined Restore Special pool label, and reports partial eat bursts accurately.",
-  "pub_date": "2026-09-17T08:09:26.675Z",
+  "version": "0.2.37-dev.27",
+  "notes": "Dharok risk intelligence: Aggressive now targets the true 15-45 HP high-damage band, requires 92% local PID confidence at critical health, records estimated damage scaling and gates in Brain traces, and immediately triple-eats after a critical axe swing.",
+  "pub_date": "2026-09-17T08:29:34.375Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNS92L0duYU5LYzAzZ2NEUU5nNG1jUmIyNzU2UFJYbDU3OUNrS0d6Tk16cjN5aG8ySlVTSjMyanNNRkhKbU5INm5Nbll6d2doSXZsYW16UG5SKzduSHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjMyNTMyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4yNl94NjQtc2V0dXAuZXhlCkNaNDREc0lQM2tLeFF4MG9VRmZBWXVqTHlaNmptUUZ0SHpyYkZEcDZEQkNCWWhYNXVsaUdFdDBFR084N1NsbjRJaGQ1eng1eXZKS3A2R0haMkZ1YkNBPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.26/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTAvYktqKysrVnJCWWhrSkIyb0tsR0ErK0NXZFkyN1U4WCtnSEt6MDBKWk55VUJOcjMwOFE3VkxObzFRZ1pqV1hEY2VmVnZHZC9OeDEwdGRrbkdKVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjMzNzM2CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi4yN194NjQtc2V0dXAuZXhlCjRpS0kzK0Z0d3dOcGloUUhvWkpENG9QK1lRY2xwdHJnM05IOTB6SHB3OHNXTWdkQUNPUVpYb0R0ekJFM2lTczZhUWdhTkpjNzY2a1dHMlk0SVVMZUR3PT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.27/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
