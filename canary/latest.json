@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.42",
-  "notes": "Reduced manual click latency by removing duplicate global mouse interception, skipping inactive PvP combat-truth work while preserving setup telemetry, caching item metadata, cleaning detached Roat runtimes correctly, and adding physical-click dispatch timing diagnostics.",
-  "pub_date": "2026-09-17T23:39:46.485Z",
+  "version": "0.2.37-dev.43",
+  "notes": "Adds Roat Marlin primary-food and Halibut combo-food support, a persistent exact-name/item-ID kill-pile loot table, automatic food dropping when an allowlisted reward needs inventory space, corrected projectile-following ID labels, and reinforced input diagnostics.",
+  "pub_date": "2026-09-18T00:42:51.609Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTkxdlZIZzFWWWwwUXRzeDlhcjE3RWp5T1VrZkFTOU10Q01ObTg1a2twZkNla21XRzVQL3VCUGVBMERsbkVXSmhsZ0lQL1Bhd0xjTE9SVzdwd0Vhc3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Njg4MzM3CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40Ml94NjQtc2V0dXAuZXhlCnlINEUwM29nZEd5aUs1RlB3Q05NUFNxbEJPU3VQS3hvcjNSaFI2YkdmUTBBSWdkcGVwRXRTUXAvaHFYNGRidnYyNGdJdXhpL3NUaVJkemVKcVYvRENRPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.42/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNS9FanQ0QkkrV2tpWk9nVnRWbDRQYnU4YmFrOC9YKytOR1NCdkM2aTFrWlo0V3RySGlvZUo3SEFsa0NWSURtUWlNQTFyYnJNaUE2b3U2bEhSeVpkWHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjkyMTQzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40M194NjQtc2V0dXAuZXhlClZCZTRIaFl6NkVaT09JR0d2RGFlUk9qL3VReGpSRm5OT3phOFdLWVhFcGM5UFpZUUdSWjIwYkMzei83V29uRmlLMFZUYnY5YzJENFltSmNGZHNubkRnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.43/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
