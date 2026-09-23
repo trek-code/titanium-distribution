@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.46",
-  "notes": "Added Alora and Near-Reality to the Dev launcher. Both use fingerprint-verified official JAR updaters and Java 11, launch independently, and do not attach Titanium automation. The Dev launcher now offers six managed server entries.",
-  "pub_date": "2026-09-23T02:37:02.554Z",
+  "version": "0.2.37-dev.47",
+  "notes": "Fight Lab now records silent Roat-window clips with accurate frame reporting, links clips to fight timelines, and avoids capture catch-up load. Includes unified fight evidence, session review, Mimic sequence candidates, and private fight-event sharing controls. Mimic remains shadow-only pending verified playtests.",
+  "pub_date": "2026-09-23T08:03:19.318Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTI5d1A2Vk9MOFhqUGZiQWdDanpFTXBVR3krVWg5ekxxQkRJc3lrRUZKTHd1SjFBYlpkamVUUzE4dUhwMmhreWFWTHdjT29yNWVwQVo1RFo4bWxTV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMwOTY2CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40Nl94NjQtc2V0dXAuZXhlCm5Nb1ZhYUhwZjlSYkVlQ1ArcVZRcXZRa0o2TVNabDFhSzRCUW5HWXhyM3BhMk02Y1o1Q0JvalgvR1Iva2h4clhPL3BKc1l5MDQzUjFSMkZFUDd4NUJnPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.46/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTZQL0cvaWNiWmN3dnJmbm1BbmhITGdOUkVPQVVkMGsydlVyOHJmSzI2QkJNWGxiekdYVFZUcHh4d29Ta1hIUXE2VWNMYmJrK3ErazBlNG9nZFowZHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUwNTUwCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40N194NjQtc2V0dXAuZXhlCmN1SVNWd2JTMlMxMjlKT21IemVYZGJCbW9sQjJ4eUk3U3VXdldpajkwWFk2M3lLWnR4d0FIUDdRQzRNdmN5N0pDREd5TnZkb2dkWUdPYk43YXBNSUNnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.47/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
