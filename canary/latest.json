@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.43",
-  "notes": "Adds Roat Marlin primary-food and Halibut combo-food support, a persistent exact-name/item-ID kill-pile loot table, automatic food dropping when an allowlisted reward needs inventory space, corrected projectile-following ID labels, and reinforced input diagnostics.",
-  "pub_date": "2026-09-18T00:42:51.609Z",
+  "version": "0.2.37-dev.44",
+  "notes": "Added SpawnPK to the Dev launcher using the official verified SpawnPK updater. SpawnPK launches as a standalone client with Java 11; Titanium automation is not attached. Faux and other Dev testers can install this signed canary update from the launcher.",
+  "pub_date": "2026-09-23T01:32:26.756Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNS9FanQ0QkkrV2tpWk9nVnRWbDRQYnU4YmFrOC9YKytOR1NCdkM2aTFrWlo0V3RySGlvZUo3SEFsa0NWSURtUWlNQTFyYnJNaUE2b3U2bEhSeVpkWHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjkyMTQzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40M194NjQtc2V0dXAuZXhlClZCZTRIaFl6NkVaT09JR0d2RGFlUk9qL3VReGpSRm5OT3phOFdLWVhFcGM5UFpZUUdSWjIwYkMzei83V29uRmlLMFZUYnY5YzJENFltSmNGZHNubkRnPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.43/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTM2Y0xOVnVPdUgybGtjdmpWSWVYUWVjRFM0TXI4dXR2YXBhUTd1WGhkT2VTK1F4Y1RTUHNvK1MvTU9xaFpkVkIxdzc4NXJYYVpOa0xPWEk0RzgzaVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI3MDkzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40NF94NjQtc2V0dXAuZXhlCm1yamZDcjNUcU0yQzV3aWZ0VXpzbkpwNU5HbEZSOUJNeUxsWU8ycG5DbzRLdW1nL2NHR0U1UnozZEw0Yk16cHpWUjAxbS9FK0cwT3h4ZFRibXJJcUNnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.44/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
