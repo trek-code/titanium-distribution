@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.50",
-  "notes": "Fight Lab now shows manual actions by default, filters cursor events before paging, refreshes active sessions, and ignores empty clips. Roat records passive combat frames and outcomes even with PvP automation off. Local Dev recording no longer shows a verified event-sharing access error; authenticated uploads remain separate.",
-  "pub_date": "2026-09-23T20:10:29.850Z",
+  "version": "0.2.37-dev.51",
+  "notes": "Fight Lab now reads and bookmarks all fights from Dev.50 recordings without modifying the original timeline. New Roat sessions write valid timeline JSON and update the live fight count after each fight. Existing footage and manual inputs remain available for review.",
+  "pub_date": "2026-09-23T21:39:54.532Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTRCb1pFOWtnTEtQaThaZWFkaEF6SHdybWFMSTZmQVl5akQ2SXdjcU1rTkxQbFZDeHdHVjVNLzI5ZXpQUm1YUDFFZGVlREpnRzg2UHpqU1B4U1k3aHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTkzOTk3CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41MF94NjQtc2V0dXAuZXhlCjBFd21JRXlWekQ3cUFQRXVFcTFuQzZoTy9iTEIxcFRIWnI4TURkWnRsUktZZWVRYVVFeEY0QmdVSUNaaytwejAyRXpTYzgybmkxNlVacWY1YjBlaEFBPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.50/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXhrK0dCdHJHUCs3M1VJNFQyUjMvL2x2LzFLU1VPWDRnNXlhemx6cXJPSjVGdG9FcEJrdVhjRWl6Yms1bC9TL0lSakViZXVQdVRnRStXWGg5Tm80U1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTk5NTM4CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41MV94NjQtc2V0dXAuZXhlCnJkeUlTeUg2L0V2K0FNUThGTmhMaWZjQmVDZFBQQXFjVkViRTZSNnhjOStpTm5MbDVHelN1VDJ3MCtySnJZQWk3SGZobG5oMXQ0RFh4VHg3U3RVY0R3PT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.51/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
