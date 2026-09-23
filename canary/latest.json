@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.47",
-  "notes": "Fight Lab now records silent Roat-window clips with accurate frame reporting, links clips to fight timelines, and avoids capture catch-up load. Includes unified fight evidence, session review, Mimic sequence candidates, and private fight-event sharing controls. Mimic remains shadow-only pending verified playtests.",
-  "pub_date": "2026-09-23T08:03:19.318Z",
+  "version": "0.2.37-dev.48",
+  "notes": "Roat Record fight and Watch Clips are now directly available on the normal Dev launcher Home, matching the customer-facing clipping workflow. Silent clips stay local; Fight Lab provides synchronized event review for developers. Footage-trained PvP profiles are not included and Mimic remains shadow-only.",
+  "pub_date": "2026-09-23T08:19:41.271Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTZQL0cvaWNiWmN3dnJmbm1BbmhITGdOUkVPQVVkMGsydlVyOHJmSzI2QkJNWGxiekdYVFZUcHh4d29Ta1hIUXE2VWNMYmJrK3ErazBlNG9nZFowZHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUwNTUwCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40N194NjQtc2V0dXAuZXhlCmN1SVNWd2JTMlMxMjlKT21IemVYZGJCbW9sQjJ4eUk3U3VXdldpajkwWFk2M3lLWnR4d0FIUDdRQzRNdmN5N0pDREd5TnZkb2dkWUdPYk43YXBNSUNnPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.47/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTNGSDN5MElVVEtaWU8wU0Q4RUpvMkRhblNNU1cvekFFYkhzT0VZblhpaEhVdFBnT3duQjU3UUNCblBIK2lybjB1SDNOU0RBMGRoQit1b01tZ2NNb2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUxNTQzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40OF94NjQtc2V0dXAuZXhlCnVtNS95R2lpVTQrY3BzNjFTd3dWRUFMT3FYUENLeDMwRzdYeXFaUHJ0ZHlLWnp6SGxwMDE4eGhjSm9EK0NCWGxncVVGcC9IY0JsUFE4WEJ3RlEzUkJ3PT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.48/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
