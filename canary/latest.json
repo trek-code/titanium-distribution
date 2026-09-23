@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.48",
-  "notes": "Roat Record fight and Watch Clips are now directly available on the normal Dev launcher Home, matching the customer-facing clipping workflow. Silent clips stay local; Fight Lab provides synchronized event review for developers. Footage-trained PvP profiles are not included and Mimic remains shadow-only.",
-  "pub_date": "2026-09-23T08:19:41.271Z",
+  "version": "0.2.37-dev.49",
+  "notes": "Dev Fight Lab adds local MP4 fighter footage import, rights confirmation, reviewed action labels, shadow-only visual suggestions, held-out video validation, and persistent per-fighter profiles. Requires FFmpeg and FFprobe on the developer PC. No live combat policy changes.",
+  "pub_date": "2026-09-23T16:01:26.698Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTNGSDN5MElVVEtaWU8wU0Q4RUpvMkRhblNNU1cvekFFYkhzT0VZblhpaEhVdFBnT3duQjU3UUNCblBIK2lybjB1SDNOU0RBMGRoQit1b01tZ2NNb2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTUxNTQzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40OF94NjQtc2V0dXAuZXhlCnVtNS95R2lpVTQrY3BzNjFTd3dWRUFMT3FYUENLeDMwRzdYeXFaUHJ0ZHlLWnp6SGxwMDE4eGhjSm9EK0NCWGxncVVGcC9IY0JsUFE4WEJ3RlEzUkJ3PT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.48/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXlzdHFPQmprWVdqd1dCR0NSNmF2NWwyTUp0K2tlL0ZNaFBnT3pBV3dGTTBYcTdTN3o1UUdoak02MmRtK3pCcW9nVTVTanFScDNyWWNxWFdjZlhDdmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTc5MTcwCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40OV94NjQtc2V0dXAuZXhlCnRCQW9xR01ML0ZlblhldDdVM3AwZmZ1K29mN0lQR2pvbVFOQ1FjRFhwb0ZyWWxucFJ5NTVsaGZkK3RQY3hkTDNja1NoN3AwWGh5a0tEUXFESmJQNkJnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.49/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
