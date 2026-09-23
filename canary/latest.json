@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.44",
-  "notes": "Added SpawnPK to the Dev launcher using the official verified SpawnPK updater. SpawnPK launches as a standalone client with Java 11; Titanium automation is not attached. Faux and other Dev testers can install this signed canary update from the launcher.",
-  "pub_date": "2026-09-23T01:32:26.756Z",
+  "version": "0.2.37-dev.45",
+  "notes": "Fixed SpawnPK out-of-date launch by replacing the legacy SPK.jar loader with the verified official SpawnPK.jar RuneLite launcher. The new client matches the JAR downloaded from SpawnPK. SpawnPK continues to run through its official updater without Titanium automation.",
+  "pub_date": "2026-09-23T02:06:36.647Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTM2Y0xOVnVPdUgybGtjdmpWSWVYUWVjRFM0TXI4dXR2YXBhUTd1WGhkT2VTK1F4Y1RTUHNvK1MvTU9xaFpkVkIxdzc4NXJYYVpOa0xPWEk0RzgzaVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI3MDkzCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40NF94NjQtc2V0dXAuZXhlCm1yamZDcjNUcU0yQzV3aWZ0VXpzbkpwNU5HbEZSOUJNeUxsWU8ycG5DbzRLdW1nL2NHR0U1UnozZEw0Yk16cHpWUjAxbS9FK0cwT3h4ZFRibXJJcUNnPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.44/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTFQTzFaeE5sUWdnVElNMWhhVjQzaGJSOW5oTFJrQnNlYnFxcnpSMW96ZzNHamQxR1dNRDJFbVNvbzBWelhUMksyNys1R1lXVmZLZ2ZoVnE0djRMZUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5MDU2CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40NV94NjQtc2V0dXAuZXhlCmk5TGQ4cmZnT2F3cnRtWDdWNEdKTXdTYk5KcEV2ZTFDWWswTjdiOCtyOWxmQ24zdGNXc1FXejltSjVHLzZPdDdrbndkaHZMdUlCK0tSWUtzclljYkR3PT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.45/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
