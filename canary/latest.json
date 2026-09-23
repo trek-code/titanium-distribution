@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.51",
-  "notes": "Fight Lab now reads and bookmarks all fights from Dev.50 recordings without modifying the original timeline. New Roat sessions write valid timeline JSON and update the live fight count after each fight. Existing footage and manual inputs remain available for review.",
-  "pub_date": "2026-09-23T21:39:54.532Z",
+  "version": "0.2.37-dev.52",
+  "notes": "Corrects PvP fight reports that counted Vengeance rune costs as food consumption. Supply counts now use food and potion inventory changes, labeled as inferred; existing fight recordings can be reanalyzed.",
+  "pub_date": "2026-09-23T23:06:47.139Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXhrK0dCdHJHUCs3M1VJNFQyUjMvL2x2LzFLU1VPWDRnNXlhemx6cXJPSjVGdG9FcEJrdVhjRWl6Yms1bC9TL0lSakViZXVQdVRnRStXWGg5Tm80U1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTk5NTM4CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41MV94NjQtc2V0dXAuZXhlCnJkeUlTeUg2L0V2K0FNUThGTmhMaWZjQmVDZFBQQXFjVkViRTZSNnhjOStpTm5MbDVHelN1VDJ3MCtySnJZQWk3SGZobG5oMXQ0RFh4VHg3U3RVY0R3PT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.51/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXhvTzFBMWZiZjQxYzdmeFR1ZXVjU0tBb2NSbWxsYlVDMFE1Sm81OHcyYTg5ZC9rVlNKNDN2ekJHV2Q1WWxUa2xQQ25pckFlYVdscGUyd2tEZzFGK3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA0NzY3CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41Ml94NjQtc2V0dXAuZXhlCjEvd01MQmg5Uk5CclJQZ1ZYTHVUSzJFWjYxRitRcitQcjFRTjBCS1I0eFAvU3B5Q3UxSHJnNjFGWlVYTGRYM1o0ZXg2d1J3b05YTnZFbHlQMXBUbERRPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.52/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
