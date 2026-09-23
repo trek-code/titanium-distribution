@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.45",
-  "notes": "Fixed SpawnPK out-of-date launch by replacing the legacy SPK.jar loader with the verified official SpawnPK.jar RuneLite launcher. The new client matches the JAR downloaded from SpawnPK. SpawnPK continues to run through its official updater without Titanium automation.",
-  "pub_date": "2026-09-23T02:06:36.647Z",
+  "version": "0.2.37-dev.46",
+  "notes": "Added Alora and Near-Reality to the Dev launcher. Both use fingerprint-verified official JAR updaters and Java 11, launch independently, and do not attach Titanium automation. The Dev launcher now offers six managed server entries.",
+  "pub_date": "2026-09-23T02:37:02.554Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTFQTzFaeE5sUWdnVElNMWhhVjQzaGJSOW5oTFJrQnNlYnFxcnpSMW96ZzNHamQxR1dNRDJFbVNvbzBWelhUMksyNys1R1lXVmZLZ2ZoVnE0djRMZUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI5MDU2CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40NV94NjQtc2V0dXAuZXhlCmk5TGQ4cmZnT2F3cnRtWDdWNEdKTXdTYk5KcEV2ZTFDWWswTjdiOCtyOWxmQ24zdGNXc1FXejltSjVHLzZPdDdrbndkaHZMdUlCK0tSWUtzclljYkR3PT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.45/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTI5d1A2Vk9MOFhqUGZiQWdDanpFTXBVR3krVWg5ekxxQkRJc3lrRUZKTHd1SjFBYlpkamVUUzE4dUhwMmhreWFWTHdjT29yNWVwQVo1RFo4bWxTV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMwOTY2CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi40Nl94NjQtc2V0dXAuZXhlCm5Nb1ZhYUhwZjlSYkVlQ1ArcVZRcXZRa0o2TVNabDFhSzRCUW5HWXhyM3BhMk02Y1o1Q0JvalgvR1Iva2h4clhPL3BKc1l5MDQzUjFSMkZFUDd4NUJnPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.46/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
