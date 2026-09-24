@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.52",
-  "notes": "Corrects PvP fight reports that counted Vengeance rune costs as food consumption. Supply counts now use food and potion inventory changes, labeled as inferred; existing fight recordings can be reanalyzed.",
-  "pub_date": "2026-09-23T23:06:47.139Z",
+  "version": "0.2.37-dev.53",
+  "notes": "Adds server-isolated Impact fight timelines, native-window clips, and Impact sessions in Dev Fight Lab. Certifies Impact build 131 mapping. Impact Mimic remains shadow-only pending manual-fight validation.",
+  "pub_date": "2026-09-24T07:44:32.542Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXhvTzFBMWZiZjQxYzdmeFR1ZXVjU0tBb2NSbWxsYlVDMFE1Sm81OHcyYTg5ZC9rVlNKNDN2ekJHV2Q1WWxUa2xQQ25pckFlYVdscGUyd2tEZzFGK3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjA0NzY3CWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41Ml94NjQtc2V0dXAuZXhlCjEvd01MQmg5Uk5CclJQZ1ZYTHVUSzJFWjYxRitRcitQcjFRTjBCS1I0eFAvU3B5Q3UxSHJnNjFGWlVYTGRYM1o0ZXg2d1J3b05YTnZFbHlQMXBUbERRPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.52/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXppbW1GaklYS0lEbUY4NVlSTG50MUdkMFZZcU04dHVWUDFXcHh1RVVucmNKK3BGMldybjRISlJFY1pDbjNaZFNxMTc0OXlxUzhkMlJTeHprM2g2a1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjM1ODIyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41M194NjQtc2V0dXAuZXhlClhWRmJlYlNBRW5WMnBCK3ZRS29sNTQ3N1pNNHg2U3djamxyTXNHQmtPVnFXSnV3Vjk3ZWNGVmRxS0VTTEMvUDlLbTFrNHlOdWhqRFgyM3JGK0dzVkNBPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.53/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
