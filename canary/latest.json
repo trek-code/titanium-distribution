@@ -1,11 +1,11 @@
 {
-  "version": "0.2.37-dev.53",
-  "notes": "Adds server-isolated Impact fight timelines, native-window clips, and Impact sessions in Dev Fight Lab. Certifies Impact build 131 mapping. Impact Mimic remains shadow-only pending manual-fight validation.",
-  "pub_date": "2026-09-24T07:44:32.542Z",
+  "version": "0.2.37-dev.54",
+  "notes": "Adds an Impact-only Developer Tools wrench tab with persistent ID settings, one-shot and opt-in live inspector, menu parameter capture, and passive click trace. Keeps unsupported in-game ID labels disabled pending certified hooks.",
+  "pub_date": "2026-09-24T09:56:16.505Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNXppbW1GaklYS0lEbUY4NVlSTG50MUdkMFZZcU04dHVWUDFXcHh1RVVucmNKK3BGMldybjRISlJFY1pDbjNaZFNxMTc0OXlxUzhkMlJTeHprM2g2a1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjM1ODIyCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41M194NjQtc2V0dXAuZXhlClhWRmJlYlNBRW5WMnBCK3ZRS29sNTQ3N1pNNHg2U3djamxyTXNHQmtPVnFXSnV3Vjk3ZWNGVmRxS0VTTEMvUDlLbTFrNHlOdWhqRFgyM3JGK0dzVkNBPT0K",
-      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.53/Project-Titanium-Dev-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd0QzNkxQWGJLNTFKVTg4eUVuOGNlVjZaMU9vaHdhNkpmbUxoQ1llL3RsdHZwNDF2ODN2QVJZSUNHa0ZybnpXc1BSa01veVpjbTh2ZkhBZ1VRQk5UeENwZXdDZkpmUlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjQzNzMwCWZpbGU6UHJvamVjdCBUaXRhbml1bSBEZXZfMC4yLjM3LWRldi41NF94NjQtc2V0dXAuZXhlCm1hc2ZWeGdPYXFxQ2M0YXJXTnd3bTQxZGd4dWRqUmJJcmYwMTNiR0w1UTI0L3BJMnZPMWk0TFpuUVhGaW42QWxLRURSMXVkSnlaeFZreWRCTkN5SkFBPT0K",
+      "url": "https://github.com/trek-code/titanium-distribution/releases/download/dev-0.2.37-dev.54/Project-Titanium-Dev-Setup.exe"
     }
   }
 }
